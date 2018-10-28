@@ -10,7 +10,6 @@ package JP_Project_Beta;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.List;
 
 public class Main {
 
